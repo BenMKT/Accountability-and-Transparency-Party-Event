@@ -45,6 +45,10 @@
     <li><a href="https://developer.mozilla.org/es/docs/Web/JavaScript">JavaScript</a></li>
   </ul>
 
+  <ul>
+    <li><a href="https://github.com/collections/clean-code-linters">Linters</a></li>
+  </ul>
+
 ### Key Features <a name="key-features"></a>
 
 - **Events infomation**
