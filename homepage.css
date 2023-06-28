@@ -56,7 +56,6 @@ body {
 .sec-navbar {
   font-size: 30px;
   margin-bottom: 30px;
-  /* font-family: "Lato", 'Courier New', Courier, monospace; */
   color: #272a31;
   font-weight: 600;
   text-decoration: none;
@@ -68,7 +67,7 @@ body {
 }
 
 .nav-bar {
-  background-color: rgb(255 252 252 / 65%); /*recheck this color*/
+  background-color: rgb(255 252 252 / 65%);
 }
 
 .menu-btn {
@@ -90,7 +89,6 @@ body {
   font-size: 22px;
   margin-bottom: 10px;
   padding-top: 35px;
-  /* font-family: "Lato", 'Courier New', Courier, monospace; */
   font-weight: 500;
   color: #ec5242;
 }
@@ -104,12 +102,11 @@ body {
 }
 
 .home-text {
-  /* font-size: 17px; */
+  font-size: 17px;
   margin: 0 15px 20px 0;
   background-color: #f7f7f7;
   padding: 8px;
   border: 2px solid #fff;
-  /* font-family: "Lato", 'Courier New', Courier, monospace; */
   color: #272a31;
   width: fit-content;
 }
@@ -122,9 +119,7 @@ body {
 }
 
 .home-loc {
-  /* font-size: 16px; */
   padding-bottom: 65px;
-  /* font-family: 'Lato', 'Courier New', Courier, monospace; */
   color: #272a31;
 }
 
@@ -138,7 +133,6 @@ body {
 
 .program-title {
   color: #fff;
-  /* font-family: 'Lato', 'Courier New', Courier, monospace; */
   font-weight: 500;
   text-align: center;
   padding-top: 30px;
@@ -174,15 +168,13 @@ body {
 }
 
 .program-subtitle {
-  color: #ff4f38;
-  /* font-family: 'Lato', 'Courier New', Courier, monospace; */
+  color: #ec5242;
   font-weight: 500;
   font-size: 17px;
   width: 30%;
 }
 
 .program-text {
-  /* font-family: 'Lato', 'Courier New', Courier, monospace; */
   font-size: 14px;
   justify-self: flex-end;
   width: 60%;
@@ -197,7 +189,6 @@ body {
   margin: 25px 0 45px 0;
   color: #fff;
   text-decoration: none;
-  /* font-family: 'Lato', 'Courier New', Courier, monospace; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -216,7 +207,6 @@ body {
 
 .speaker-title {
   color: #4d4d4d;
-  /* font-family: 'Lato', 'Courier New', Courier, monospace; */
   font-weight: 500;
   text-align: center;
   padding-top: 30px;
@@ -239,10 +229,10 @@ body {
   background-size: 50px;
 }
 
-.malia,
-.adela,
-.nurian,
-.lila {
+.benson,
+.virginia,
+.soviet,
+.salad {
   display: none;
 }
 
@@ -256,14 +246,12 @@ body {
 
 .speaker-subtitle {
   color: #4d4d4d;
-  /* font-family: 'Lato', 'Courier New', Courier, monospace; */
   font-size: 22px;
   margin-bottom: 8px;
 }
 
 .speaker-intro {
-  color: #ff4f38;
-  /* font-family: 'Lato', 'Courier New', Courier, monospace; */
+  color: #ec5242;
   font-size: 15px;
   margin-bottom: 8px;
   font-weight: 500;
@@ -272,7 +260,6 @@ body {
 
 .speaker-info {
   color: #4d4d4d;
-  /* font-family: 'Lato', 'Courier New', Courier, monospace; */
   font-size: 13px;
 }
 
@@ -286,7 +273,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* font-family: 'Lato', 'Courier New', Courier, monospace; */
   font-size: 15px;
   text-decoration: none;
 }
@@ -322,7 +308,6 @@ body {
   .upper-section {
     color: #fff;
     margin-left: 12px;
-    /* font-family: 'Lato', 'Courier New', Courier, monospace; */
     text-align: center;
     font-size: 13px;
     text-decoration: none;
@@ -338,15 +323,12 @@ body {
     display: flex;
     justify-self: flex-start;
     height: 46px;
-    /* background-color: black; */
-    /* border-radius: 100px; */
     margin-left: 55px;
   }
 
   .sections-navbar {
     display: flex;
     background: none;
-    /* z-index: 0; */
     position: relative;
     justify-content: flex-end;
   }
@@ -367,7 +349,6 @@ body {
   .sec-navbar {
     text-decoration: none;
     color: #4d4d4d;
-    /* font-family: 'Lato', 'Courier New', Courier, monospace; */
     font-size: 14px;
     margin-bottom: 0;
   }
@@ -380,7 +361,6 @@ body {
   .campaign-navbar {
     text-decoration: none;
     color: #ec5242;
-    /* font-family: 'Lato', 'Courier New', Courier, monospace; */
     font-size: 14px;
     border: 5px solid #ec5242;
     padding: 5px;
@@ -453,14 +433,13 @@ body {
     display: flex;
     color: #fff;
     align-self: center;
-    /* font-family: 'Lato', 'Courier New', Courier, monospace; */
     font-size: 13px;
     margin-bottom: 60px;
   }
 
   .speakers-main-box {
     display: grid;
-    grid-template-columns: 1fr 1fr; /*change to auto auto*/
+    grid-template-columns: auto auto;
   }
 
   .benson,
@@ -494,7 +473,6 @@ body {
 
   .sponsors-title {
     color: #c9c9c9;
-    /* font-family: 'Lato', 'Courier New', Courier, monospace; */
     font-weight: 500;
     text-align: center;
     padding-top: 30px;
@@ -524,13 +502,10 @@ body {
   .logo-footer {
     display: flex;
     height: 60px;
-    /* background-color: black; */
-    /* border-radius: 100px; */
   }
 
   .footer-text {
     color: #4d4d4d;
-    /* font-family: 'Lato', 'Courier New', Courier, monospace; */
     font-size: 14px;
     font-weight: 600;
   }
