@@ -21,9 +21,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 EagleAir - Conference Website <a name="about-project"></a>
+# 📖 ATP - Event Website <a name="about-project"></a>
 
-**EagleAir Capstone Project** is a website where you can find information about EagleAir Events for 2023<br>
+**ATP Capstone Project** is a website where you can find information about ATP and its events for 2024<br>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -156,7 +156,8 @@ Multimedia and content changes were made in this project.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/sanamrahimi/capstone-project1/blob/devlop/LICENSE) licensed. 
+This project is [MIT](./LICENSE) licensed.
+ 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
