@@ -53,10 +53,10 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://benmkt.github.io/Capstone-Project-1/)
 
 
-- For more information checkout this [ video ]()
+- For more information checkout this [video]()
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
