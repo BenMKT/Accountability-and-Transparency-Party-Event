@@ -30,10 +30,6 @@
 ### Tech Stack <a name="tech-stack"></a>
 
   <ul>
-    <li><a href="https://developer.mozilla.org/es/docs/Web/HTML">BootStrap Framework V5.3.0</a></li>
-  </ul>
-
-  <ul>
     <li><a href="https://developer.mozilla.org/es/docs/Web/HTML">HTML</a></li>
   </ul>
 
