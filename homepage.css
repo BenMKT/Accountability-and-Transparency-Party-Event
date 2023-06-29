@@ -34,7 +34,7 @@ body {
 .links {
   display: flex;
   flex-direction: column;
-  padding-left: 50px;
+  padding-left: 3.125rem;
   align-items: flex-start;
   width: 100%;
   height: 100%;
@@ -44,26 +44,26 @@ body {
 .close-btn {
   background: none;
   border: none;
-  height: 40px;
-  margin: 20px 50px 10px 0;
+  height: 2.5rem;
+  margin: 1.25rem 3.125rem 0.625rem 0;
   align-self: flex-end;
 }
 
 .close {
-  height: 20px;
+  height: 1.25rem;
 }
 
 .sec-navbar {
-  font-size: 30px;
-  margin-bottom: 30px;
+  font-size: 1.875rem;
+  margin-bottom: 1.875rem;
   color: #272a31;
   font-weight: 600;
   text-decoration: none;
 }
 
 .campaign-navbar {
-  border: 5px solid #ec5242;
-  padding: 5px;
+  border: 0.3125rem solid #ec5242;
+  padding: 0.3125rem;
 }
 
 .nav-bar {
@@ -73,8 +73,8 @@ body {
 .menu-btn {
   background: none;
   border: none;
-  height: 40px;
-  margin: 20px 0 0 30px;
+  height: 2.5rem;
+  margin: 1.25rem 0 0 1.875rem;
 }
 
 .home-page {
@@ -82,20 +82,20 @@ body {
   display: flex;
   flex-direction: column;
   background-color: rgb(255, 252, 252, 0.897);
-  padding-left: 15px;
+  padding-left: 0.9375rem;
 }
 
 .home-subtitle {
-  font-size: 22px;
-  margin-bottom: 10px;
-  padding-top: 35px;
+  font-size: 1.375rem;
+  margin-bottom: 0.625rem;
+  padding-top: 2.8175rem;
   font-weight: 500;
   color: #ec5242;
 }
 
 .home-title {
-  font-size: 33px;
-  margin-bottom: 20px;
+  font-size: 2.0625rem;
+  margin-bottom: 1.25rem;
   font-family: "COCOGOOSE", sans-serif;
   color: #ec5342c5;
   font-weight: 500;
@@ -106,24 +106,24 @@ body {
 }
 
 .home-text {
-  font-size: 17px;
-  margin: 0 15px 20px 0;
+  font-size: 1.0625rem;
+  margin: 0 0.9375rem 1.25rem 0;
   background-color: #f7f7f7;
-  padding: 8px;
-  border: 2px solid #fff;
+  padding: 0.5rem;
+  border: 0.125rem solid #fff;
   color: #272a31;
   width: fit-content;
 }
 
 .home-date {
-  font-size: 24px;
-  margin-bottom: 10px;
+  font-size: 1.5rem;
+  margin-bottom: 0.625rem;
   font-family: 'COCOGOOSE', 'Courier New', Courier, monospace;
   color: #272a31;
 }
 
 .home-loc {
-  padding-bottom: 65px;
+  padding-bottom: 4.0625rem;
   color: #272a31;
 }
 
@@ -139,47 +139,47 @@ body {
   color: #fff;
   font-weight: 500;
   text-align: center;
-  padding-top: 30px;
-  font-size: 24px;
+  padding-top: 1.875rem;
+  font-size: 1.5rem;
 }
 
 .span-red {
-  height: 2px;
-  width: 45px;
+  height: 0.125rem;
+  width: 2.8125rem;
   background-color: #ec5242;
   display: block;
-  margin: 15px 0 25px 0;
+  margin: 0.9375rem 0 1.5625rem;
   align-self: center;
 }
 
 .program-main {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 0.625rem;
 }
 
 .program-day {
   background-color: #5f5f5fad;
-  margin: 0 15px;
+  margin: 0 0.9375rem;
   display: flex;
   align-items: center;
-  gap: 10px;
-  height: 85px;
+  gap: 0.625rem;
+  height: 5.3125rem;
 }
 
 .cal-img {
-  width: 50px;
+  width: 3.125rem;
 }
 
 .program-subtitle {
   color: #ec5242;
   font-weight: 500;
-  font-size: 17px;
+  font-size: 1.0625rem;
   width: 30%;
 }
 
 .program-text {
-  font-size: 14px;
+  font-size: 0.875rem;
   justify-self: flex-end;
   width: 60%;
   color: #fff;
@@ -188,15 +188,15 @@ body {
 .buy-tickets {
   align-self: center;
   background-color: #ec5242;
-  width: 265px;
-  height: 60px;
-  margin: 25px 0 45px 0;
+  width: 16.5625rem;
+  height: 3.75rem;
+  margin: 1.5625rem 0 2.8125rem;
   color: #fff;
   text-decoration: none;
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 18px;
+  font-size: 1.125rem;
   font-weight: 500;
 }
 
@@ -213,24 +213,24 @@ body {
   color: #4d4d4d;
   font-weight: 500;
   text-align: center;
-  padding-top: 30px;
-  font-size: 24px;
+  padding-top: 1.875rem;
+  font-size: 1.5rem;
 }
 
 .speakers-main-box {
   display: flex;
   flex-direction: column;
-  gap: 50px;
-  margin-bottom: 50px;
-  padding: 30px 0 0 40px;
+  gap: 3.125rem;
+  margin-bottom: 3.125rem;
+  padding: 1.875rem 0 0 2.5rem;
 }
 
 .speaker-box {
   display: flex;
-  padding: 19px 0 0 19px;
+  padding: 1.1875rem 0 0 1.1875rem;
   background-image: url(img/chess-table.jpg);
   background-repeat: no-repeat;
-  background-size: 50px;
+  background-size: 3.125rem;
 }
 
 .benson,
@@ -241,50 +241,50 @@ body {
 }
 
 .speaker-img {
-  height: 100px;
-  width: 120px;
+  height: 6.25rem;
+  width: 7.5rem;
 }
 
 .speaker-info-box {
-  margin: 0 5px 0 10px;
+  margin: 0 0.3125rem 0 0.625rem;
 }
 
 .speaker-subtitle {
   color: #4d4d4d;
-  font-size: 22px;
-  margin-bottom: 8px;
+  font-size: 1.375rem;
+  margin-bottom: 0.5rem;
 }
 
 .speaker-intro {
   color: #ec5242;
-  font-size: 15px;
-  margin-bottom: 8px;
+  font-size: 0.9375rem;
+  margin-bottom: 0.5rem;
   font-weight: 500;
   font-style: italic;
 }
 
 .speaker-info {
   color: #4d4d4d;
-  font-size: 13px;
+  font-size: 0.8125rem;
 }
 
 .more-btn,
 .less-btn {
-  margin: 0 17px 55px 17px;
+  margin: 0 1.0625rem 3.4375rem;
   border: 1px solid #4d4d4d;
   color: #4d4d4d;
   background-color: #fff;
-  height: 45px;
+  height: 2.8125rem;
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 15px;
+  font-size: 0.9375rem;
   text-decoration: none;
 }
 
 .expand-icon {
-  height: 17px;
-  margin: 4px 0 0 5px;
+  height: 1.0625rem;
+  margin: 0.25rem 0 0 0.3125rem;
 }
 
 .sponsors-main,
@@ -301,20 +301,20 @@ body {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    padding: 8px 100px 8px 0;
+    padding: 0.5rem 6.25rem 0.5rem 0;
     background-color: #272a31;
-    gap: 15px;
+    gap: 0.9375rem;
   }
 
   .socialmedia-icon {
-    height: 15px;
+    height: 0.9375rem;
   }
 
   .upper-section {
     color: #fff;
-    margin-left: 12px;
+    margin-left: 0.75rem;
     text-align: center;
-    font-size: 13px;
+    font-size: 0.8125rem;
     text-decoration: none;
   }
 
@@ -327,8 +327,8 @@ body {
   .logo-navbar {
     display: flex;
     justify-self: flex-start;
-    height: 46px;
-    margin-left: 55px;
+    height: 2.875rem;
+    margin-left: 3.4375rem;
   }
 
   .sections-navbar {
@@ -341,10 +341,10 @@ body {
   .links {
     flex-direction: row;
     width: fit-content;
-    gap: 40px;
-    padding: 20px;
+    gap: 2.5rem;
+    padding: 1.25rem;
     background: none;
-    padding-right: 100px;
+    padding-right: 6.25rem;
   }
 
   .close-btn {
@@ -354,7 +354,7 @@ body {
   .sec-navbar {
     text-decoration: none;
     color: #4d4d4d;
-    font-size: 14px;
+    font-size: 0.875rem;
     margin-bottom: 0;
   }
 
@@ -366,57 +366,57 @@ body {
   .campaign-navbar {
     text-decoration: none;
     color: #ec5242;
-    font-size: 14px;
-    border: 5px solid #ec5242;
-    padding: 5px;
+    font-size: 0.875rem;
+    border: 0.3125rem solid #ec5242;
+    padding: 0.3125rem;
   }
 
   .home-page {
-    padding-left: 170px;
+    padding-left: 10.625rem;
   }
 
   .home-subtitle {
-    font-size: 25px;
-    padding-top: 80px;
-    margin-bottom: 30px;
+    font-size: 1.5625rem;
+    padding-top: 5rem;
+    margin-bottom: 1.875rem;
   }
 
   .home-title {
-    font-size: 40px;
-    margin-bottom: 40px;
+    font-size: 2.5rem;
+    margin-bottom: 2.5rem;
     width: 70%;
   }
 
   .home-text {
-    margin-bottom: 40px;
+    margin-bottom: 2.5rem;
     width: 60%;
   }
 
   .home-date {
-    margin-bottom: 20px;
+    margin-bottom: 1.25rem;
   }
 
   .home-loc {
-    padding-bottom: 100px;
+    padding-bottom: 6.25rem;
   }
 
   .program-title,
   .speaker-title {
-    font-size: 26px;
+    font-size: 1.625rem;
   }
 
   .program-main {
     flex-direction: row;
-    gap: 5px;
-    margin: 50px;
+    gap: 0.3125rem;
+    margin: 3.125rem;
   }
 
   .program-day {
     margin: 0;
     flex-direction: column;
-    gap: 10px;
-    height: 180px;
-    padding: 10px;
+    gap: 0.625rem;
+    height: 11.25rem;
+    padding: 0.625rem;
     flex: 1;
   }
 
@@ -438,8 +438,8 @@ body {
     display: flex;
     color: #fff;
     align-self: center;
-    font-size: 13px;
-    margin-bottom: 60px;
+    font-size: 0.8125rem;
+    margin-bottom: 3.75rem;
   }
 
   .speakers-main-box {
@@ -462,8 +462,8 @@ body {
   }
 
   .speaker-info-box {
-    width: 215px;
-    margin: 0 0 0 10px;
+    width: 13.4375rem;
+    margin: 0 0 0 0.625rem;
   }
 
   .more-btn {
@@ -480,38 +480,38 @@ body {
     color: #c9c9c9;
     font-weight: 500;
     text-align: center;
-    padding-top: 30px;
-    font-size: 26px;
+    padding-top: 1.875rem;
+    font-size: 1.625rem;
   }
 
   .sponsors {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 40px;
-    padding-bottom: 50px;
+    gap: 2.5rem;
+    padding-bottom: 3.125rem;
     flex-wrap: wrap;
   }
 
   .sponsors-img {
-    width: 130px;
+    width: 8.125rem;
   }
 
   .footer {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 20px 0;
+    padding: 1.25rem 0;
   }
 
   .logo-footer {
     display: flex;
-    height: 60px;
+    height: 3.75rem;
   }
 
   .footer-text {
     color: #4d4d4d;
-    font-size: 14px;
+    font-size: 0.875rem;
     font-weight: 600;
   }
 }
