@@ -67,7 +67,7 @@ body {
 }
 
 .nav-bar {
-  background-color: rgb(255 252 252 / 65%);
+  background-color: rgb(255, 252, 252, 0.897);
 }
 
 .menu-btn {
@@ -81,7 +81,7 @@ body {
   position: relative;
   display: flex;
   flex-direction: column;
-  background-color: rgb(255 252 252 / 65%);
+  background-color: rgb(255, 252, 252, 0.897);
   padding-left: 15px;
 }
 
@@ -94,11 +94,15 @@ body {
 }
 
 .home-title {
-  font-size: 32px;
+  font-size: 33px;
   margin-bottom: 20px;
   font-family: "COCOGOOSE", sans-serif;
-  color: #ec5242;
+  color: #ec5342c5;
   font-weight: 500;
+  text-transform: uppercase;
+  background: url(img/Campaigns.jpg);
+  background-size: cover;
+  -webkit-background-clip: text;
 }
 
 .home-text {
@@ -238,6 +242,7 @@ body {
 
 .speaker-img {
   height: 100px;
+  width: 120px;
 }
 
 .speaker-info-box {
@@ -367,7 +372,7 @@ body {
   }
 
   .home-page {
-    padding-left: 100px;
+    padding-left: 170px;
   }
 
   .home-subtitle {
