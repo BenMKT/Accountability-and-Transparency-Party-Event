@@ -102,8 +102,7 @@ body {
   text-transform: uppercase;
   background: url(img/Campaigns.jpg);
   background-size: cover;
-  -webkit-background-clip: text;
-  background-clip: text;
+  -webkit-background-clip: text;  
 }
 
 .home-text {
