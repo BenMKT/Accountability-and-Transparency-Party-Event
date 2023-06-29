@@ -26,7 +26,7 @@ body {
   position: fixed;
   top: 0;
   z-index: 1;
-  background-color: rgba(255, 111, 142, 0.8);
+  background-color: rgba(111, 255, 135, 0.822);
   background-size: cover;
   background-position: center;
 }
@@ -67,7 +67,7 @@ body {
 }
 
 .nav-bar {
-  background-color: rgb(255, 252, 252, 0.897);
+  background-color: rgb(255, 252, 252, 0.85);
 }
 
 .menu-btn {
@@ -81,7 +81,7 @@ body {
   position: relative;
   display: flex;
   flex-direction: column;
-  background-color: rgb(255, 252, 252, 0.897);
+  background-color: rgb(255, 252, 252, 0.85);
   padding-left: 0.9375rem;
 }
 
