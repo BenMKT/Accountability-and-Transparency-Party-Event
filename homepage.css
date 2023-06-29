@@ -103,6 +103,7 @@ body {
   background: url(img/Campaigns.jpg);
   background-size: cover;
   -webkit-background-clip: text;
+  background-clip: text;
 }
 
 .home-text {
