@@ -1,4 +1,4 @@
-# Capstone-Project-1
+# Accountability and Transparency Party Event
 
 # 📗 Table of Contents
 
@@ -23,7 +23,7 @@
 
 # 📖 ATP - Event Website <a name="about-project"></a>
 
-**ATP Capstone Project** is a website where you can find information about ATP and its events for 2024<br>
+**ATP Event Project** is a website where you can find information about Accountability and Transparency Party and its events for 2024<br>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -53,7 +53,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://benmkt.github.io/Capstone-Project-1/)
+- [Live Demo Link]([https://benmkt.github.io/Capstone-Project-1/](https://benmkt.github.io/Accountability-and-Transparency-Party-Event/))
 
 
 - For a quick project walkthrough checkout this [video](https://www.loom.com/share/0f5f822e1c34459fbabf329742105dfd?sid=ca43dae8-4302-4dcb-b3eb-f7eaae834add)
@@ -112,7 +112,8 @@ Browser (Chrome recommended)
 
 👤 **Benson Kiai**
 
-- GitHub: [@BenMKT](https://github.com/BenMKT/Capstone-Project-1)
+- GitHub: [@BenMKT](https://github.com/BenMKT)
+- Linkedin: [Benson](https://www.linkedin.com/in/bensonkiai)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -130,7 +131,7 @@ Browser (Chrome recommended)
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/BenMKT/Capstone-Project-1/issues).
+Feel free to check the [issues page](https://github.com/BenMKT/Accountability-and-Transparency-Party-Event/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
