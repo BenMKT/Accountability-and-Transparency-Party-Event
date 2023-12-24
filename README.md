@@ -53,7 +53,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]([https://benmkt.github.io/Capstone-Project-1/](https://benmkt.github.io/Accountability-and-Transparency-Party-Event/))
+- [Live Demo Link](https://benmkt.github.io/Accountability-and-Transparency-Party-Event/)
 
 
 - For a quick project walkthrough checkout this [video](https://www.loom.com/share/0f5f822e1c34459fbabf329742105dfd?sid=ca43dae8-4302-4dcb-b3eb-f7eaae834add)
